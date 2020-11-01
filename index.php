@@ -109,6 +109,9 @@ if (isset($_POST["cari"]) ) {
         <?php endif; ?>
     </ul>
     </div>
+	<div class="footer center">
+		&copy; Copyright Bayubudiarta 2020.<br/>
+	</div>
     
     <!-- SCRIPT -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
